@@ -13,11 +13,6 @@ Script en Bash para analizar exportes de Client Hello (Wireshark/TShark) y detec
 Este script valida evidencia textual exportada de Wireshark/TShark.
 No sustituye una evaluación criptográfica integral ni acredita cumplimiento total por sí solo.
 
-## Use case
-Validación de evidencias de tráfico TLS hacia endpoints de validación de licencia, por ejemplo:
-- cloud.gluu.org
-- account.gluu.org
-
 ## Requirements
 - Bash
 - grep
